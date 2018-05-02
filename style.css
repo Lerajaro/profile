@@ -115,6 +115,13 @@ th {
   margin: auto 40px;
 }
 
+.list-vertical-align li {
+  margin: 50px;
+  list-style-type: none;
+  padding: 70px 0;
+  text-align: center;
+}
+
 #sidebar {
   position: fixed;
   width: 300px;
