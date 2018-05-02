@@ -116,10 +116,19 @@ th {
 }
 
 .list-vertical-align li {
-  margin: 50px;
+  margin: 40px;
   list-style-type: none;
-  padding: 70px 0;
+  padding: 40px 0;
   text-align: center;
+  font-size: 24px;
+}
+
+.list-vertical-align > li > a {
+  background-color: rgb(70,70,70);
+}
+
+.list-vertical-align > li > a:hover {
+  background-color: rgb(100,100,100);
 }
 
 #sidebar {
