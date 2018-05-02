@@ -48,8 +48,8 @@ th {
 }
 
 .container {
-  width: 600px;
-  margin: 40px auto;
+  width: 90%;
+  margin: 30px auto;
   padding: 30px;
 }
 
@@ -121,6 +121,7 @@ th {
   padding: 40px 0;
   text-align: center;
   font-size: 24px;
+  color: rgb(150,150,150);
 }
 
 .list-vertical-align > li > a {
@@ -128,12 +129,12 @@ th {
 }
 
 .list-vertical-align > li > a:hover {
-  background-color: rgb(100,100,100);
+  color: white;
 }
 
 #sidebar {
   position: fixed;
-  width: 300px;
+  width: 120px;
   background-color: rgb(70,70,70);
   left: 0;
   top: 0;
@@ -141,6 +142,6 @@ th {
 }
 
 #page-content {
-  margin-left: 300px;
+  margin-left: 120px;
 }
 
