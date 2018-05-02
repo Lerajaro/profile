@@ -111,9 +111,14 @@ th {
   background-color: rgb(200,200,200);
 }
 
+.list-vertical-align {
+  margin: auto 40px;
+}
+
 #sidebar {
   position: fixed;
   width: 300px;
+  background-color: rgb(70,70,70);
   left: 0;
   top: 0;
   bottom: 0;
